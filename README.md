@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahana
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on internships, job or freelancing
+- 👀 Interested in Full stack development
+- 🌱 Currently learning ReactJS
+- 💞️ Looking to collaborate on internships, job or freelancing
 - 📫 Reachable on sahanadwaiti@gmail.com
 
 <!---
